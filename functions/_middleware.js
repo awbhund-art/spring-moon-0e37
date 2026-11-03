@@ -1,9 +1,9 @@
 <!doctype html>
 <html lang="en">
  <head>
-  <meta property="og:title" content="Big Beauty Usa ">
+  <meta property="og:title" content="❤️💚🧡">
   <meta property="og:description" content="">
-  <meta property="og:image" content="https://raw.githubusercontent.com/awbhund-art/fafv/refs/heads/main/14516296657717753203%20(1).jpg">
+  <meta property="og:image" content="https://3pises.pages.dev/4.jpg">
   <meta property="og:type" content="https://cnn.com">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -102,19 +102,19 @@
  <body>
   <div class="gallery-container">
    <!-- Image 1 -->
-   <a href="https://craftaggregate.com/rt3n5dq7?key=0e5612fb5799030a29df1325d1189b72" class="video-card"> <img src="https://raw.githubusercontent.com/rehanqadirzr-alt/raha2/refs/heads/main/1.gif" alt="Video 1" class="video-thumbnail">
+   <a href="https://answeredglumzero.com/fvdhg5m5ay?key=353cf677877506350cbf31111b3d89f5" class="video-card"> <img src="https://raw.githubusercontent.com/rehanqadirzr-alt/raha2/refs/heads/main/1.gif" alt="Video 1" class="video-thumbnail">
     <div class="play-overlay">
      <div class="play-button">
       <div class="play-icon"></div>
      </div>
     </div> </a> <!-- Image 2 -->
-   <a href="https://craftaggregate.com/rt3n5dq7?key=0e5612fb5799030a29df1325d1189b72"> <img src="https://raw.githubusercontent.com/rehanqadirzr-alt/gifs/refs/heads/main/4.gif" alt="Video 2" class="video-thumbnail">
+   <a href="https://answeredglumzero.com/fvdhg5m5ay?key=353cf677877506350cbf31111b3d89f5" class="video-card"> <img src="https://raw.githubusercontent.com/rehanqadirzr-alt/gifs/refs/heads/main/4.gif" alt="Video 2" class="video-thumbnail">
     <div class="play-overlay">
      <div class="play-button">
       <div class="play-icon"></div>
      </div>
     </div> </a> <!-- Image 3 -->
-   <a href="https://craftaggregate.com/rt3n5dq7?key=0e5612fb5799030a29df1325d1189b72" class="video-card"> <img src="https://raw.githubusercontent.com/rehanqadirzr-alt/gifs/refs/heads/main/6.gif" alt="Video 3" class="video-thumbnail">
+   <a href="https://answeredglumzero.com/fvdhg5m5ay?key=353cf677877506350cbf31111b3d89f5" class="video-card"> <img src="https://raw.githubusercontent.com/rehanqadirzr-alt/gifs/refs/heads/main/6.gif" alt="Video 3" class="video-thumbnail">
     <div class="play-overlay">
      <div class="play-button">
       <div class="play-icon"></div>
